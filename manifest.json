@@ -1,0 +1,9 @@
+{
+    "name": "ArtifactofMultitudes",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/dancinBear/ArtifactofMultitudes",
+    "description": "A mod for Risk of Rain 2 inspired by wildbook's Multitudes, and written with the aid of EvanTich's example artifact project.",
+    "dependencies": [
+        "EvanTich-MoreArtifacts-1.2.3"
+    ]
+}
